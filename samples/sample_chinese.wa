@@ -1,0 +1,742 @@
+<sentence id="1" status="">
+// 新 华 社 北 京 ９ 月 １ 日 电
+// Xinhua News Agency , Beijing , September 1st
+<source>
+1 新 : 
+2 华 : 
+3 社 : 
+4 北 : 
+5 京 : 
+6 ９ : 
+7 月 : 
+8 １ : 
+9 日 : MEA
+10 电 : INC
+</source>
+<translation>
+1 Xinhua : 
+2 News : LOC
+3 Agency : 
+4 , : COO
+5 Beijing : 
+6 , : COO
+7 September : 
+8 1st : FUN
+</translation>
+<alignment>
+0 <==> 6 // NT // <not translated> <==> , 
+10 <==> 0 // NT // 电 <==> <not translated> 
+6 7 <==> 7 // SEM // ９ 月 <==> September 
+1 2 <==> 1 // SEM // 新 华 <==> Xinhua 
+3 <==> 2 3 // COI // 社 <==> News Agency 
+8 9 <==> 8 // GIF // １ 日 <==> 1st 
+4 5 <==> 5 // SEM // 北 京 <==> Beijing 
+0 <==> 4 // NT // <not translated> <==> , 
+</alignment>
+</sentence>
+
+
+<sentence id="2" status="">
+// 记 者 李 贺 普 从 第 六 届 远 东 及 南 太 平 洋 地 区 残 疾 人 运 动 会 组 委 会 外 联 部 获 悉 ： 截 止 今 晚 ， *OP* *T*-1 参 加 本 届 运 动 会 的 ３ １ 个 国 家 和 地 区 的 代 表 团 已 抵 达 北 京 ， 并 进 驻 运 动 员 村 。
+// Reporter Hepu Li learned from the external liaison department of the organizing committee of the Sixth Far East and South Pacific Region Handicapped Sports Meet : *0* up till tonight , delegations from 31 countries and regions participating in the sports meet this time have already arrived in Beijing and moved into the athlete 's village .
+<source>
+1 记 : 
+2 者 : 
+3 李 : 
+4 贺 : 
+5 普 : 
+6 从 : 
+7 第 : 
+8 六 : 
+9 届 : 
+10 远 : 
+11 东 : 
+12 及 : 
+13 南 : 
+14 太 : 
+15 平 : 
+16 洋 : 
+17 地 : 
+18 区 : 
+19 残 : 
+20 疾 : 
+21 人 : 
+22 运 : 
+23 动 : 
+24 会 : 
+25 组 : 
+26 委 : 
+27 会 : 
+28 外 : 
+29 联 : 
+30 部 : 
+31 获 : 
+32 悉 : 
+33 ： : 
+34 截 : 
+35 止 : 
+36 今 : 
+37 晚 : 
+38 ， : 
+39 *OP* : 
+40 *T*-1 : 
+41 参 : 
+42 加 : 
+43 本 : 
+44 届 : 
+45 运 : 
+46 动 : 
+47 会 : 
+48 的 : 
+49 ３ : 
+50 １ : 
+51 个 : 
+52 国 : 
+53 家 : 
+54 和 : 
+55 地 : 
+56 区 : 
+57 的 : 
+58 代 : 
+59 表 : 
+60 团 : 
+61 已 : 
+62 抵 : 
+63 达 : 
+64 北 : 
+65 京 : 
+66 ， : 
+67 并 : 
+68 进 : 
+69 驻 : 
+70 运 : 
+71 动 : 
+72 员 : 
+73 村 : 
+74 。 : 
+</source>
+<translation>
+1 Reporter : 
+2 Hepu : 
+3 Li : 
+4 learned : 
+5 from : 
+6 the : 
+7 external : 
+8 liaison : 
+9 department : 
+10 of : 
+11 the : 
+12 organizing : 
+13 committee : 
+14 of : 
+15 the : 
+16 Sixth : 
+17 Far : 
+18 East : 
+19 and : 
+20 South : 
+21 Pacific : 
+22 Region : 
+23 Handicapped : 
+24 Sports : 
+25 Meet : 
+26 : : 
+27 *0* : 
+28 up : 
+29 till : 
+30 tonight : 
+31 , : 
+32 delegations : 
+33 from : 
+34 31 : 
+35 countries : 
+36 and : 
+37 regions : 
+38 participating : 
+39 in : 
+40 the : 
+41 sports : 
+42 meet : 
+43 this : 
+44 time : 
+45 have : 
+46 already : 
+47 arrived : 
+48 in : 
+49 Beijing : 
+50 and : 
+51 moved : 
+52 into : 
+53 the : 
+54 athlete : 
+55 's : 
+56 village : 
+57 . : 
+</translation>
+<alignment>
+</alignment>
+</sentence>
+
+
+<sentence id="3" status="">
+// 这 些 国 家 和 地 区 是 ： 澳 大 利 亚 、 文 莱 、 中 国 台 北 、 斐 济 、 香 港 、 印 度 、 印 度 尼 西 亚 、 基 里 巴 斯 、 韩 国 、 老 挝 、 澳 门 、 马 来 西 亚 、 马 尔 代 夫 、 缅 甸 、 瑙 鲁 、 新 喀 里 多 尼 亚 、 新 西 兰 、 纽 埃 、 巴 基 斯 坦 、 巴 布 亚 新 几 内 亚 、 菲 律 宾 、 新 加 坡 、 所 罗 门 群 岛 、 斯 里 兰 卡 、 泰 国 、 汤 加 、 土 库 曼 斯 坦 、 瓦 努 阿 图 、 越 南 、 瓦 利 斯 和 富 图 纳 、 西 萨 摩 亚 。
+// These countries and regions are : Australia , Brunei , Taipei , China , Fiji , Hong Kong , India , Indonesia , Kiribati , South Korea , Laos , Macao , Malaysia , Maldives , Myanmar , Nauru , New Caledonia , New Zealand , Nui , Pakistan , Papua New Guinea , Philippines , Singapore , Solomon Islands , Sri Lanka , Thailand , Tonga , Turkmenistan , Vanuatu , Vietnam , Wallis and Futuna , West Samoa .
+<source>
+1 这 : 
+2 些 : 
+3 国 : 
+4 家 : 
+5 和 : 
+6 地 : 
+7 区 : 
+8 是 : 
+9 ： : 
+10 澳 : 
+11 大 : 
+12 利 : 
+13 亚 : 
+14 、 : 
+15 文 : 
+16 莱 : 
+17 、 : 
+18 中 : 
+19 国 : 
+20 台 : 
+21 北 : 
+22 、 : 
+23 斐 : 
+24 济 : 
+25 、 : 
+26 香 : 
+27 港 : 
+28 、 : 
+29 印 : 
+30 度 : 
+31 、 : 
+32 印 : 
+33 度 : 
+34 尼 : 
+35 西 : 
+36 亚 : 
+37 、 : 
+38 基 : 
+39 里 : 
+40 巴 : 
+41 斯 : 
+42 、 : 
+43 韩 : 
+44 国 : 
+45 、 : 
+46 老 : 
+47 挝 : 
+48 、 : 
+49 澳 : 
+50 门 : 
+51 、 : 
+52 马 : 
+53 来 : 
+54 西 : 
+55 亚 : 
+56 、 : 
+57 马 : 
+58 尔 : 
+59 代 : 
+60 夫 : 
+61 、 : 
+62 缅 : 
+63 甸 : 
+64 、 : 
+65 瑙 : 
+66 鲁 : 
+67 、 : 
+68 新 : 
+69 喀 : 
+70 里 : 
+71 多 : 
+72 尼 : 
+73 亚 : 
+74 、 : 
+75 新 : 
+76 西 : 
+77 兰 : 
+78 、 : 
+79 纽 : 
+80 埃 : 
+81 、 : 
+82 巴 : 
+83 基 : 
+84 斯 : 
+85 坦 : 
+86 、 : 
+87 巴 : 
+88 布 : 
+89 亚 : 
+90 新 : 
+91 几 : 
+92 内 : 
+93 亚 : 
+94 、 : 
+95 菲 : 
+96 律 : 
+97 宾 : 
+98 、 : 
+99 新 : 
+100 加 : 
+101 坡 : 
+102 、 : 
+103 所 : 
+104 罗 : 
+105 门 : 
+106 群 : 
+107 岛 : 
+108 、 : 
+109 斯 : 
+110 里 : 
+111 兰 : 
+112 卡 : 
+113 、 : 
+114 泰 : 
+115 国 : 
+116 、 : 
+117 汤 : 
+118 加 : 
+119 、 : 
+120 土 : 
+121 库 : 
+122 曼 : 
+123 斯 : 
+124 坦 : 
+125 、 : 
+126 瓦 : 
+127 努 : 
+128 阿 : 
+129 图 : 
+130 、 : 
+131 越 : 
+132 南 : 
+133 、 : 
+134 瓦 : 
+135 利 : 
+136 斯 : 
+137 和 : 
+138 富 : 
+139 图 : 
+140 纳 : 
+141 、 : 
+142 西 : 
+143 萨 : 
+144 摩 : 
+145 亚 : 
+146 。 : 
+</source>
+<translation>
+1 These : FUN
+2 countries : 
+3 and : FUN
+4 regions : 
+5 are : 
+6 : : FUN
+7 Australia : 
+8 , : FUN
+9 Brunei : 
+10 , : FUN
+11 Taipei : 
+12 , : COO
+13 China : 
+14 , : FUN
+15 Fiji : 
+16 , : FUN
+17 Hong : 
+18 Kong : 
+19 , : FUN
+20 India : 
+21 , : FUN
+22 Indonesia : 
+23 , : FUN
+24 Kiribati : 
+25 , : FUN
+26 South : 
+27 Korea : 
+28 , : FUN
+29 Laos : 
+30 , : FUN
+31 Macao : 
+32 , : FUN
+33 Malaysia : 
+34 , : FUN
+35 Maldives : 
+36 , : FUN
+37 Myanmar : 
+38 , : FUN
+39 Nauru : 
+40 , : FUN
+41 New : 
+42 Caledonia : 
+43 , : FUN
+44 New : 
+45 Zealand : 
+46 , : FUN
+47 Nui : 
+48 , : FUN
+49 Pakistan : 
+50 , : FUN
+51 Papua : 
+52 New : 
+53 Guinea : 
+54 , : FUN
+55 Philippines : 
+56 , : FUN
+57 Singapore : 
+58 , : FUN
+59 Solomon : 
+60 Islands : 
+61 , : FUN
+62 Sri : 
+63 Lanka : 
+64 , : FUN
+65 Thailand : 
+66 , : FUN
+67 Tonga : 
+68 , : FUN
+69 Turkmenistan : 
+70 , : FUN
+71 Vanuatu : 
+72 , : FUN
+73 Vietnam : 
+74 , : FUN
+75 Wallis : 
+76 and : FUN
+77 Futuna : 
+78 , : FUN
+79 West : 
+80 Samoa : 
+81 . : FUN
+</translation>
+<alignment>
+141 <==> 78 // FUN // 、 <==> , 
+3 4 <==> 2 // SEM // 国 家 <==> countries 
+78 <==> 46 // FUN // 、 <==> , 
+38 39 40 41 <==> 24 // SEM // 基 里 巴 斯 <==> Kiribati 
+109 110 111 112 <==> 62 63 // SEM // 斯 里 兰 卡 <==> Sri Lanka 
+95 96 97 <==> 55 // SEM // 菲 律 宾 <==> Philippines 
+68 69 70 71 72 73 <==> 41 42 // SEM // 新 喀 里 多 尼 亚 <==> New Caledonia 
+45 <==> 28 // FUN // 、 <==> , 
+6 7 <==> 4 // SEM // 地 区 <==> regions 
+142 143 144 145 <==> 79 80 // SEM // 西 萨 摩 亚 <==> West Samoa 
+65 66 <==> 39 // SEM // 瑙 鲁 <==> Nauru 
+131 132 <==> 73 // SEM // 越 南 <==> Vietnam 
+108 <==> 61 // FUN // 、 <==> , 
+98 <==> 56 // FUN // 、 <==> , 
+130 <==> 72 // FUN // 、 <==> , 
+32 33 34 35 36 <==> 22 // SEM // 印 度 尼 西 亚 <==> Indonesia 
+8 <==> 5 // SEM // 是 <==> are 
+57 58 59 60 <==> 35 // SEM // 马 尔 代 夫 <==> Maldives 
+113 <==> 64 // FUN // 、 <==> , 
+99 100 101 <==> 57 // SEM // 新 加 坡 <==> Singapore 
+125 <==> 70 // FUN // 、 <==> , 
+0 <==> 12 // NT // <not translated> <==> , 
+117 118 <==> 67 // SEM // 汤 加 <==> Tonga 
+42 <==> 25 // FUN // 、 <==> , 
+15 16 <==> 9 // SEM // 文 莱 <==> Brunei 
+9 <==> 6 // FUN // ： <==> : 
+5 <==> 3 // FUN // 和 <==> and 
+28 <==> 19 // FUN // 、 <==> , 
+22 <==> 14 // FUN // 、 <==> , 
+48 <==> 30 // FUN // 、 <==> , 
+49 50 <==> 31 // SEM // 澳 门 <==> Macao 
+120 121 122 123 124 <==> 69 // SEM // 土 库 曼 斯 坦 <==> Turkmenistan 
+87 88 89 90 91 92 93 <==> 51 52 53 // SEM // 巴 布 亚 新 几 内 亚 <==> Papua New Guinea 
+79 80 <==> 47 // SEM // 纽 埃 <==> Nui 
+137 <==> 76 // FUN // 和 <==> and 
+52 53 54 55 <==> 33 // SEM // 马 来 西 亚 <==> Malaysia 
+133 <==> 74 // FUN // 、 <==> , 
+64 <==> 38 // FUN // 、 <==> , 
+43 44 <==> 26 27 // SEM // 韩 国 <==> South Korea 
+31 <==> 21 // FUN // 、 <==> , 
+74 <==> 43 // FUN // 、 <==> , 
+138 139 140 <==> 77 // SEM // 富 图 纳 <==> Futuna 
+56 <==> 34 // FUN // 、 <==> , 
+1 2 <==> 1 // FUN // 这 些 <==> These 
+10 11 12 13 <==> 7 // SEM // 澳 大 利 亚 <==> Australia 
+146 <==> 81 // FUN // 。 <==> . 
+25 <==> 16 // FUN // 、 <==> , 
+86 <==> 50 // FUN // 、 <==> , 
+116 <==> 66 // FUN // 、 <==> , 
+114 115 <==> 65 // SEM // 泰 国 <==> Thailand 
+51 <==> 32 // FUN // 、 <==> , 
+37 <==> 23 // FUN // 、 <==> , 
+119 <==> 68 // FUN // 、 <==> , 
+26 27 <==> 17 18 // SEM // 香 港 <==> Hong Kong 
+106 107 <==> 60 // SEM // 群 岛 <==> Islands 
+126 127 128 129 <==> 71 // SEM // 瓦 努 阿 图 <==> Vanuatu 
+134 135 136 <==> 75 // SEM // 瓦 利 斯 <==> Wallis 
+81 <==> 48 // FUN // 、 <==> , 
+67 <==> 40 // FUN // 、 <==> , 
+62 63 <==> 37 // SEM // 缅 甸 <==> Myanmar 
+14 <==> 8 // FUN // 、 <==> , 
+94 <==> 54 // FUN // 、 <==> , 
+23 24 <==> 15 // SEM // 斐 济 <==> Fiji 
+102 <==> 58 // FUN // 、 <==> , 
+46 47 <==> 29 // SEM // 老 挝 <==> Laos 
+103 104 105 <==> 59 // SEM // 所 罗 门 <==> Solomon 
+82 83 84 85 <==> 49 // SEM // 巴 基 斯 坦 <==> Pakistan 
+20 21 <==> 11 // SEM // 台 北 <==> Taipei 
+17 <==> 10 // FUN // 、 <==> , 
+61 <==> 36 // FUN // 、 <==> , 
+18 19 <==> 13 // SEM // 中 国 <==> China 
+29 30 <==> 20 // SEM // 印 度 <==> India 
+75 76 77 <==> 44 45 // SEM // 新 西 兰 <==> New Zealand 
+</alignment>
+</sentence>
+
+
+<sentence id="4" status="">
+// 东 道 主 中 国 体 育 代 表 团 已 于 ８ 月 ２ ５ 日 进 驻 运 动 员 村 。
+// The sports delegation from hosting China has already moved into the athlete 's village on August 25th .
+<source>
+1 东 : 
+2 道 : 
+3 主 : 
+4 中 : 
+5 国 : 
+6 体 : 
+7 育 : 
+8 代 : 
+9 表 : 
+10 团 : 
+11 已 : 
+12 于 : 
+13 ８ : 
+14 月 : 
+15 ２ : 
+16 ５ : 
+17 日 : MEA
+18 进 : 
+19 驻 : 
+20 运 : 
+21 动 : 
+22 员 : 
+23 村 : 
+24 。 : 
+</source>
+<translation>
+1 The : DET
+2 sports : 
+3 delegation : 
+4 from : OMN
+5 hosting : 
+6 China : 
+7 has : TEN
+8 already : 
+9 moved : 
+10 into : OMN
+11 the : DET
+12 athlete : 
+13 's : POS
+14 village : 
+15 on : FUN
+16 August : 
+17 25th : FUN
+18 . : FUN
+</translation>
+<alignment>
+23 <==> 10 11 14 // GIS // 村 <==> into the village 
+8 9 10 <==> 1 3 // GIS // 代 表 团 <==> The delegation 
+1 2 3 <==> 5 // SEM // 东 道 主 <==> hosting 
+20 21 22 <==> 12 13 // GIS // 运 动 员 <==> athlete 's 
+4 5 <==> 4 6 // GIS // 中 国 <==> from China 
+18 19 <==> 7 9 // GIS // 进 驻 <==> has moved 
+11 <==> 8 // SEM // 已 <==> already 
+24 <==> 18 // FUN // 。 <==> . 
+15 16 17 <==> 17 // GIF // ２ ５ 日 <==> 25th 
+13 14 <==> 16 // SEM // ８ 月 <==> August 
+12 <==> 15 // FUN // 于 <==> on 
+6 7 <==> 2 // SEM // 体 育 <==> sports 
+</alignment>
+</sentence>
+
+
+<sentence id="5" status="">
+// 据 了 解 ， 这 些 代 表 团 在 首 都 机 场 、 注 册 制 证 中 心 和 运 动 村 ， 都 受 到 了 志 愿 人 员 的 *OP* *T*-1 热 情 周 到 的 接 待 ， 从 *PRO* 出 关 到 *PRO* 进 驻 运 动 员 村 均 十 分 顺 利 。
+// It *EXP* was learned * that these delegations received a warm and considerate reception from volunteers at the capitol airport , registration and permit issuance center and athlete 's village . From *PRO* exiting customs to *PRO* moving into the athlete 's village everything was extremely smooth .
+<source>
+1 据 : OMN
+2 了 : 
+3 解 : 
+4 ， : 
+5 这 : 
+6 些 : 
+7 代 : 
+8 表 : 
+9 团 : 
+10 在 : 
+11 首 : 
+12 都 : 
+13 机 : 
+14 场 : 
+15 、 : 
+16 注 : 
+17 册 : 
+18 制 : 
+19 证 : 
+20 中 : 
+21 心 : 
+22 和 : 
+23 运 : 
+24 动 : 
+25 村 : 
+26 ， : COO
+27 都 : CON
+28 受 : 
+29 到 : 
+30 了 : TEN
+31 志 : 
+32 愿 : 
+33 人 : 
+34 员 : 
+35 的 : DEM
+36 *OP* : MET
+37 *T*-1 : MET
+38 热 : 
+39 情 : 
+40 周 : 
+41 到 : 
+42 的 : DEM
+43 接 : 
+44 待 : 
+45 ， : 
+46 从 : 
+47 *PRO* : MET
+48 出 : 
+49 关 : 
+50 到 : 
+51 *PRO* : MET
+52 进 : 
+53 驻 : 
+54 运 : 
+55 动 : 
+56 员 : 
+57 村 : 
+58 均 : CON
+59 十 : 
+60 分 : 
+61 顺 : 
+62 利 : 
+63 。 : 
+</source>
+<translation>
+1 It : COO
+2 *EXP* : MET
+3 was : TEN
+4 learned : 
+5 * : MET
+6 that : FUN
+7 these : FUN
+8 delegations : 
+9 received : 
+10 a : DET
+11 warm : 
+12 and : COO
+13 considerate : 
+14 reception : 
+15 from : 
+16 volunteers : 
+17 at : FUN
+18 the : DET
+19 capitol : 
+20 airport : 
+21 , : FUN
+22 registration : 
+23 and : COO
+24 permit : 
+25 issuance : 
+26 center : 
+27 and : FUN
+28 athlete : 
+29 's : POS
+30 village : 
+31 . : FUN
+32 From : FUN
+33 *PRO* : MET
+34 exiting : 
+35 customs : 
+36 to : FUN
+37 *PRO* : MET
+38 moving : 
+39 into : OMN
+40 the : DET
+41 athlete : 
+42 's : POS
+43 village : 
+44 everything : COO
+45 was : COO
+46 extremely : 
+47 smooth : 
+48 . : FUN
+</translation>
+<alignment>
+4 <==> 6 // FUN // ， <==> that 
+1 2 3 <==> 3 4 // GIS // 据 了 解 <==> was learned 
+50 <==> 36 // FUN // 到 <==> to 
+35 <==> 15 // MDE // 的 <==> from 
+0 <==> 23 // NT // <not translated> <==> and 
+38 39 <==> 11 // SEM // 热 情 <==> warm 
+43 44 <==> 10 14 // GIS // 接 待 <==> a reception 
+27 <==> 0 // NT // 都 <==> <not translated> 
+49 <==> 35 // SEM // 关 <==> customs 
+0 <==> 44 // NT // <not translated> <==> everything 
+63 <==> 48 // FUN // 。 <==> . 
+5 6 <==> 7 // FUN // 这 些 <==> these 
+59 60 <==> 46 // SEM // 十 分 <==> extremely 
+46 <==> 32 // FUN // 从 <==> From 
+0 <==> 12 // NT // <not translated> <==> and 
+28 29 30 <==> 9 // GIS // 受 到 了 <==> received 
+31 32 33 34 <==> 16 // SEM // 志 愿 人 员 <==> volunteers 
+13 14 <==> 18 20 // GIS // 机 场 <==> the airport 
+52 53 <==> 38 // SEM // 进 驻 <==> moving 
+15 <==> 21 // FUN // 、 <==> , 
+18 19 <==> 24 25 // SEM // 制 证 <==> permit issuance 
+58 <==> 0 // NT // 均 <==> <not translated> 
+40 41 42 <==> 13 // GIS // 周 到 的 <==> considerate 
+45 <==> 31 // FUN // ， <==> . 
+0 <==> 1 // NT // <not translated> <==> It 
+11 12 <==> 19 // SEM // 首 都 <==> capitol 
+16 17 <==> 22 // SEM // 注 册 <==> registration 
+10 <==> 17 // FUN // 在 <==> at 
+48 <==> 34 // SEM // 出 <==> exiting 
+22 <==> 27 // FUN // 和 <==> and 
+61 62 <==> 47 // SEM // 顺 利 <==> smooth 
+23 24 <==> 28 29 // GIS // 运 动 <==> athlete 's 
+0 <==> 45 // NT // <not translated> <==> was 
+20 21 <==> 26 // SEM // 中 心 <==> center 
+25 <==> 30 // SEM // 村 <==> village 
+57 <==> 39 40 43 // GIS // 村 <==> into the village 
+7 8 9 <==> 8 // SEM // 代 表 团 <==> delegations 
+26 <==> 0 // NT // ， <==> <not translated> 
+54 55 56 <==> 41 42 // GIS // 运 动 员 <==> athlete 's 
+</alignment>
+</sentence>
+
+
+<sentence id="6" status="">
+// （ 完 ）
+// -LRB- End -RRB-
+<source>
+1 （ : 
+2 完 : 
+3 ） : 
+</source>
+<translation>
+1 -LRB- : FUN
+2 End : 
+3 -RRB- : FUN
+</translation>
+<alignment>
+1 <==> 1 // FUN // （ <==> -LRB- 
+3 <==> 3 // FUN // ） <==> -RRB- 
+2 <==> 2 // SEM // 完 <==> End 
+</alignment>
+</sentence>
+
+

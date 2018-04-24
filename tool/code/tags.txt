@@ -1,0 +1,18 @@
+# tags.txt: user-defined word alignment token tags
+#
+# Modify this file to add tags to the right-click context menu
+#
+# Examples:
+#
+# Full-name <tab> Three-letter code
+# Unmatched and Glued    GLU
+# Meta word    MET
+# Tokenization Error    TOK
+#
+# Insert your own tags below in two columns separated by a single tab and with a line
+# break at the end. Do not precede lines with "#".
+
+
+Meta word    MET
+Tokenization Error    TOK
+Typo    TYP
